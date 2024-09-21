@@ -1,9 +1,10 @@
-AuthorName: ''
 Categories:
-- fdroid
+  - Theming
+License: Apache-2.0
+AuthorName: Roman Nurik
+AuthorWebSite: https://roman.nurik.net/
+SourceCode: https://github.com/romannurik/dashclock/
+IssueTracker: https://github.com/romannurik/dashclock/issues
+Changelog: https://github.com/romannurik/dashclock/wiki/Changelog
 CurrentVersionCode: 2147483647
-IssueTracker: ''
 Name: DashClock Widget
-SourceCode: ''
-Summary: ''
-WebSite: ''
